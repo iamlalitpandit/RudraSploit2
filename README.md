@@ -1,9 +1,12 @@
 ## Moukthar
 Remote adminitration tool for android
 
+### Demo
+[![Tutorial Video](https://thumbnails.odycdn.com/optimize/s:390:220/quality:85/plain/https://thumbs.odycdn.com/5c9f0255b96f0fc9e43346e84ce519e2.webp)](https://odysee.com/moukthar-android-remote-administration-tool:effb92994feefdb930f62677e14c95e42d0270ea)
+
 ### Features
-- Permissions bypass (android 12 below) https://youtube.com/shorts/-w8H0lkFxb0
-- Keylogger https://youtube.com/shorts/Ll9dNrkjFOA
+- Permissions bypass (android 12 below)
+- Keylogger
 - Notifications listener
 - SMS listener
 - Phone call recording
@@ -14,8 +17,6 @@ Remote adminitration tool for android
 - List installed applications
 - Download & upload files
 - Get device location
-
-[![Tutorial Video](https://img.youtube.com/vi/ykOx19hAaD4/0.jpg)](https://youtu.be/ykOx19hAaD4)
 
 ### Installation
 - Clone repository
