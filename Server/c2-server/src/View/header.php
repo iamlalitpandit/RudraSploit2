@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>moukthar | Dashboard</title>
+    <title>RudraSploit2 | Dashboard</title>
     <link href="/src/View/assets/vendor/fontawesome/css/fontawesome.min.css" rel="stylesheet">
     <link href="/src/View/assets/vendor/fontawesome/css/solid.min.css" rel="stylesheet">
     <link href="/src/View/assets/vendor/fontawesome/css/brands.min.css" rel="stylesheet">
@@ -42,7 +42,7 @@
                                 </a>
                                 <div class="dropdown-menu dropdown-menu-end nav-link-menu">
                                     <ul class="nav-list">
-                                        <li><a href="https://github.com/Tomiwa-Ot/moukthar" target="_blank" class="dropdown-item"><i class="fas fa-info"></i> About</a></li>
+                                        <li><a href="https://github.com/iamlalitpandit/RudraSploit2" target="_blank" class="dropdown-item"><i class="fas fa-info"></i> About</a></li>
                                         <li><a href="/reset" class="dropdown-item"><i class="fas fa-key"></i> Reset password</a></li>
                                         <li><a href="/logout" class="dropdown-item"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
                                     </ul>

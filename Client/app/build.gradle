@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.ot.grhq.client'
+    namespace 'com.rudrasploit2.client'
     compileSdk 34
 
     buildFeatures {
@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.ot.grhq.client"
+        applicationId "com.rudrasploit2.client"
         minSdk 21
         targetSdk 33
         versionCode 1
